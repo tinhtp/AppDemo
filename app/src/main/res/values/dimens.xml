@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_20_sp">20sp</dimen>
+    <dimen name="imagebtn_50_dp">50dp</dimen>
+    <dimen name="dp_40">40dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_12">12dp</dimen>
+</resources>
